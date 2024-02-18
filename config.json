@@ -1,0 +1,7 @@
+{
+    "TranslatorKEY": "翻译器密钥",
+    "TranslatorENDPOINT": "翻译器终结点",
+    "TranslatorREGION": "翻译器地区",
+    "SpeechKEY": "语音服务密钥",
+    "SpeechREGION": "语音服务地区"
+}
